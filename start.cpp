@@ -195,6 +195,17 @@ cout <<"Age: "<<age <<endl;
 cout <<"Weight: " <<weight <<endl;
 
 
+// manipulation of code using  the string and the cast technique
 
+cout <<"================================" <<endl;
+
+int firstNum=28;char ch;
+cin >> ch;
+
+cout << " the sum of firstnum and ch = " << firstNum + static_cast<int>(ch)<<endl;
+
+// some change
+char A;
+cout << "sum of firstNum and A = " << firstNum + static_cast<int>('A')<<endl;
 	return 0;
 }
