@@ -150,7 +150,7 @@ cout <<"str = "<<str <<endl;
 // the following program illustrates how the input statments work
 cout <<"how th input statments wowrk in c++" <<endl;
 
-cout <<"===========================================";
+cout <<"==========================================="<<endl;
 // variable declaration
 int feet;
 int inches;
@@ -207,5 +207,11 @@ cout << " the sum of firstnum and ch = " << firstNum + static_cast<int>(ch)<<end
 // some change
 char A;
 cout << "sum of firstNum and A = " << firstNum + static_cast<int>('A')<<endl;
+
+// frist day
+
+cout <<" ==============================================="<<endl;
+cout <<" THE FIRST DAY IN c++ DATE MARCH 07 2021 11:32AM" <<endl;
+cout <<"================================================"<<endl;
 	return 0;
 }
