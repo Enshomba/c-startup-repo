@@ -202,6 +202,7 @@ cout <<"================================" <<endl;
 int firstNum=28;char ch;
 cin >> ch;
 
+cout <<" ENTER THE VALUE OF ch" <<endl;
 cout << " the sum of firstnum and ch = " << firstNum + static_cast<int>(ch)<<endl;
 
 // some change
@@ -211,7 +212,20 @@ cout << "sum of firstNum and A = " << firstNum + static_cast<int>('A')<<endl;
 // frist day
 
 cout <<" ==============================================="<<endl;
-cout <<" THE FIRST DAY IN c++ DATE MARCH 07 2021 11:32AM" <<endl;
+cout <<" THE FIRST DAY IN c++ DATE MARCH 07 2021 11:32AM"<<endl;
 cout <<"================================================"<<endl;
+
+cout <<" "<<endl;
+
+cout <<" "<<endl;
+
+cout <<"==================================="<<endl;
+cout <<"START OF THE SECOND DAY AFTER A REAL POWER SURGE BY THE RAIN "
+	 <<" THIS WAS FROM MIDAY TO AROUD FIVE" <<endl;
+cout <<"================================"<<endl;
+
+
+
+
 	return 0;
 }
